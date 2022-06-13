@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/icons8-home-24.png</file>
+    <file>icons/calendar.png</file>
+    <file>icons/icons8-append-clip-32.png</file>
+    <file>icons/icons8-close-32.png</file>
+    <file>icons/icons8-maximize-button-32.png</file>
+    <file>icons/icons8-menu-32.png</file>
+    <file>icons/icons8-subtract-32.png</file>
+    <file>icons/icons8-아령-32.png</file>
+    <file>icons/icons8-영수증-달러-32.png</file>
+    <file>icons/icons8-태스크-목록-32.png</file>
+  </qresource>
+</RCC>
