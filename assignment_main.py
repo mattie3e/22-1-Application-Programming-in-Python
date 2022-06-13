@@ -7,7 +7,7 @@ from custom import practice as p
 url = 'https://learn.inha.ac.kr/login/index.php'
 member_data = {
     'username': '12214180',
-    'password': 'iohchick1@$'
+    'password': ''
 }
 
 s = requests.Session()
